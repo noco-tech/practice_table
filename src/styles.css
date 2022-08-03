@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+table {
+  /* border: 1px solid #000; */
+
+  border-collapse: collapse;
+  border-spacing: 0;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 2rem;
+}
